@@ -1,2 +1,0 @@
-# mediums
-Medium projects
